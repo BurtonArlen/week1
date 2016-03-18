@@ -1,5 +1,13 @@
-head{
-  padding: 7px;
+body{
+  padding-top: 90px;
+}
+
+.jumbotron{
+  padding-top: 15px;
+}
+
+.jcon{
+  padding-top: 15px;
 }
 
 .section1{
@@ -23,7 +31,6 @@ head{
   background-color: #ffffff;
   border: 3px solid black;
   opacity: 0.6;
-  filter: alpha(opacity=60);
 }
 
 .needpad{
@@ -48,4 +55,8 @@ head{
 
 .bgset{
   background-image: url(rain.jpg);
+}
+
+.padnavbar{
+  padding-top: 40px;
 }
